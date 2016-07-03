@@ -130,7 +130,8 @@ html, body, .swiper-container, .swiper-slide {
     font-family: "华文行楷";
     color: #000;
     opacity: 0;
-    font-size: .36rem;
+    font-size: .32rem;
+    z-index: 10;
 }
 
 .page2>p:nth-child(2){
